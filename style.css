@@ -1,0 +1,21 @@
+#grid{
+    display: flex;
+    
+    
+    width: 400px;
+    height: 300px;
+    flex-wrap: wrap;
+    padding: 100px 600px;
+    background-color: black;
+    
+}
+h1{
+    text-align: center;
+    font-style: italic;
+    font-size: 40px;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px gray;
+    background-color: black;
+    color: antiquewhite;
+    padding: 10px;
+}
